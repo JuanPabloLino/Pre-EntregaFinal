@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Peras",
+    "descripcion": "Amarilla",
+    "código": "P15",
+    "foto": "https://farmaciaribera.es/blog/wp-content/uploads/2020/01/Beneficios-de-comer-peras.jpg",
+    "precio": 5,
+    "stock": 250,
+    "id": 1,
+    "timestamp": "1/3/2022 12:13:31"
+  },
+  {
+    "nombre": "Manzana",
+    "descripcion": "Roja",
+    "código": "M05",
+    "foto": "https://t1.uc.ltmcdn.com/images/6/6/4/que_vitaminas_tiene_la_manzana_51466_600.jpg",
+    "precio": 4,
+    "stock":203,
+    "id": 2,
+    "timestamp": "1/3/2022 12:14:31"
+  },
+  {
+    "nombre": "Bananas",
+    "descripcion": "Ecuador",
+    "código": "B04",
+    "foto": "https://cdn.agroempresario.com/images/posts/3b1c8d94cd0b3ad2ccad64bf2b46810e8f7463e87934e778_840.jpg",
+    "precio": 6,
+    "stock": 185,
+    "id": 3,
+    "timestamp": "1/3/2022 12:15:24"
+  },
+  {
+    "nombre": "Duraznos",
+    "descripcion": "Norte",
+    "código": "D25",
+    "foto": "https://www.animalgourmet.com/wp-content/uploads/2019/06/apricots-3433818_1920.jpg",
+    "precio": 2,
+    "stock":55,
+    "id": 4,
+    "timestamp": "1/3/2022 12:17:29"
+  },
+  {
+    "nombre": "Frutillas",
+    "descripcion": "Sur",
+    "código": "F25",
+    "foto": "https://www.lanacion.com.py/resizer/q48jr4JfnqG5Qq0r_FAzitg7nzw=/1016x0/smart/filters:format(jpg):quality(70)/s3.amazonaws.com/arc-wordpress-client-uploads/lanacionpy/wp-content/uploads/2017/08/08060726/DSC0106.jpg",
+    "precio": 7,
+    "stock": 145,
+    "id": 5,
+    "timestamp": "1/3/2022 12:19:11"
+  },
+  {
+    "nombre": "Kiwis",
+    "descripcion": "Serranos",
+    "código": "K95",
+    "foto": "https://i.blogs.es/df8116/kiwis1/1366_2000.jpg",
+    "precio": 2,
+    "stock": 70,
+    "id": 6,
+    "timestamp": "1/3/2022 12:24:25"
+  },
+  { 
+    "nombre": "Melones",
+    "descripcion": "Rocio de miel",
+    "código": "M15",
+    "foto": "https://static2.lasprovincias.es/www/multimedia/202106/09/media/melon.jpg",
+    "precio": 7,
+    "stock": 85,
+    "id": 7,
+    "timestamp": "1/3/2022 12:26:48"
+  }
+]
